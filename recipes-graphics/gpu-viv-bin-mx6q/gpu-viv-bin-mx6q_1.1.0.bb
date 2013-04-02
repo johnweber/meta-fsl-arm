@@ -11,4 +11,4 @@ SRC_URI[sha256sum] = "4238b72a6dad2d075d159bb1e86fb68bbed7c27894ce82c546a8e7c58a
 
 # FIXME: 1.1.0 BSP release uses DirectFB 1.4 and Yocto has 1.6 so
 # disable it for now
-USE_DFB = "no"
+USE_DFB = "yes"
